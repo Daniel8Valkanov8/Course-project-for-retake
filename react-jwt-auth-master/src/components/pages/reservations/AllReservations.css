@@ -1,0 +1,30 @@
+/* AllReservations.css */
+
+
+  
+
+  
+  .row {
+    justify-content: center;
+  }
+  
+  .card {
+    margin: 0 auto;
+    width: 100%; /* Adjust width to fit your content */
+    max-width: 600px; /* Optional: Limit the maximum width */
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 1.2em;
+    margin-bottom: 40px;
+  }
+  
